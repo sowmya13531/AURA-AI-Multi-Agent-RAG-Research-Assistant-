@@ -31,6 +31,11 @@ This process is time-consuming and cognitively demanding.
 
 The goal is not just answering questions — but performing structured research reasoning through an autonomous multi-agent architecture.
 
+# DEMO
+![App Demo](demo_aura/Screenshot%20(240).png)
+![App Demo](demo_aura/Screenshot%20(241).png)
+![App Demo](demo_aura/Screenshot%20(242).png)
+![App Demo](demo_aura/Screenshot%20(243).png)
 
 # 🧠 What Makes AURA Special
 
