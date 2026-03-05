@@ -1,0 +1,9 @@
+streamlit
+sentence-transformers
+faiss-cpu
+pypdf
+ollama
+numpy
+scikit-learn
+qdrant-client
+gemma-2b
